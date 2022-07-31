@@ -1,5 +1,5 @@
 # LaravelProject
-Indeed like job finder website
+Indeed like job finder website using Laravel
 
 Routing, Eloquent Model, Filtering, Pagination, Blade Template and Authentication and Authorisation.
 
